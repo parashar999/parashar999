@@ -1,22 +1,119 @@
+<div align="center">
+
+<div style="width: 1200px; height: 800px;"> 
+    
+<div align="left" style="padding: 20px; width: 100%; height: 100px; background-color: black; border-radius:20px">
+
 # Hello, I'm Tarun👋
+**About Me:** I'm a Full Stack Developer based in Delhi, India . I specialize in Full Stack Development and have a passion for Blockchain and Cyber-security. 
 
-## About Me
-I'm a Full Stack Developer based in Delhi, India . I specialize in Full Stack Development and have a passion for Blockchain and Cyber-security. 
-
+</div>
+<div style="display: flex;">
+    <div style="width: 900px; height: 700px; padding:20px">
+        <div style="width: 100%; height: 600px; ">
+        
 ## Skills & Technologies
-- 💻 Programming Languages: JavaScript, C++
-- ⚙️ Tools & Technologies: React.js, Node.js, MySQL, Git and Github, Docker, DeFi Protocols, DSA
-- 📚 Learning: MongoDB, Rust
+
+| **💻 Programming Languages:**  JavaScript, C++ |   <img src="./c-logo.png" width="60" height="60" /> <img src="./Daco_3133777.png" width="60" height="60" /> |
+|--|-------------|
+|  **⚙️ Tools: Git and GitHub, Docker, VSCode, ChatGPT** |   <img src="./github.256x250.png" width="60" height="60" />  <img src="./4373190_docker_logo_logos_icon.png" width="60" height="60" />  <img src="./file-type-vscode.256x254.png" width="60" height="60" />   <img src="./63c52af590250dd34bd6a9ab.png" width="60" height="60" /> |
+| **🌐 Technologies:  React.js, Node.js, MySQL, MongoDB** |  <img src="./1174949_js_react js_logo_react_react native_icon.png" width="60" height="60" />  <img src="./pngwing.com.png" width="60" height="60" />  <img src="./4691303_mysql_icon.png" width="60" height="60" /> <img src="./pngwing.com (1).png" width="60" height="60" />     |
+| **🌐 Technologies:  Bitcoin, Ethereum, Internet Computer Protocol** |  <img src="./bitcoin_btc_logo_62c59b827e.webp" width="60" height="60" /> <img src="./ethereum_eth_logo_e69b1c2368.webp" width="60" height="60" />  <img src="./internet-computer-icp-logo-02DE976C1A-seeklogo.com.webp" width="60" height="60" />   |
+|  **📚 Currently Exploring : Solana, Hyperledger Fabric, AWS, Rust, DeFi Protocols** |   <img src="./solana-sol-logo-12828AD23D-seeklogo.com.webp" width="60" height="60" />     <img src="./Daco_292995.png" width="140" height="60" />  <img src="./AWS-Logo-PNG.png" width="140" height="60" /> <img src="./NicePng_rust-logo-png_3084680.png" width="60" height="60" />   |
+</div>
+        <div style="width: 100%; height: 100px; background-color: blue;"></div>
+        <div></div>
+    </div>
+    <div style=" width: 400px; height: 700px;">
+        <div align='left' style="margin:20px; width: 100%; height: 250px; background-color: black; padding:10px;border-radius:10px ">
+
+## Experience
+
+ <div> 
+ 
+ **Teaching Assistant:** CodingClan
+ <br> 
+ (`Jan 2023- June 2023`) </div> </h5>
+  <div> 
+
+  **Blockchain Researcher:** VedicBlock Labs
+  <br>
+  (`Jan 2024- Feb 2024`) 
+  </div>
+  <div> 
+  
+  **Associate Blockchain Developer:** 
+  Teblox Labs  <Br> (`Mar 2024-JUL 2024`)  </a> </div>
+  
+  </div>
+   <div align='left' style="margin:20px; width: 100%; height: 160px; background-color: black; padding:10px;border-radius:10px ">
+
+## Education 
+
+ <div> 
+
+ **BTECH : SOFTWARE ENGINEERING** <br> 
+ <a>
+   ( DELHI TECHNOLOGICAL UNIVERSITY )
+ </a>
+ <br>
+ 
+ `AUG 2019- MAY 2024`
+ </div>
+  </div>
+ <div align='left' style="margin:20px; width: 100%; height: 170px; background-color: black; padding:10px;border-radius:10px ">
 
 ## Contact Me
-- 📧 Email: parashartarun392000@gmail.com ,  bqjrk-7u62h-apotl-anuwf-hivsu-dhxq5-wsr7d-zzs2q-xovi4-ckwev-oqe@dmail.ai
-- 🔗 LinkedIn: www.linkedin.com/in/tarunsharma392000
-- 🐦 Twitter: https://x.com/TarunParas28366
-- 💬 Discord: @parashartarun392000
 
-## Fun Facts
-- 🎨 Hobbies: [Your Hobbies]
-- 🏆 Goals: [Your Current Goals]
+ <div> 📧 Email: <a> parashartarun392000@gmail.com </a>, </div> </h5>
+  <div> 🔗 LinkedIn: <a> www.linkedin.com/in/tarunsharma392000 </a> </div>
+  <div> 🐦 Twitter: <a> https://x.com/TarunParas28366 </a> </div>
+  <div> 💬 Discord username: @parashartarun392000 </div>
+  </div>
+        <div align='left' style="margin:20px; width: 100%; height: 170px; background-color: black; padding:10px;border-radius:10px ">
+
+## Contact Me
+
+ <div> 📧 Email: <a> parashartarun392000@gmail.com </a>, </div> </h5>
+  <div> 🔗 LinkedIn: <a> www.linkedin.com/in/tarunsharma392000 </a> </div>
+  <div> 🐦 Twitter: <a> https://x.com/TarunParas28366 </a> </div>
+  <div> 💬 Discord username: @parashartarun392000 </div>
+  </div>
+    </div>
+</div>
+
+</div>
+
+
+</div>
+
+
+
+
+
+
+
+  <div style="flex: 1; margin: 10px; padding: 10px;"  >
+   <h5></h5>
+  </div>
+
+  <div style="flex: 1; margin: 10px; padding: 10px; " >
+    <h5> </h5>
+  </div>
+
+</div>
+
+
+
+
+- 
+- 
+- 
+
+
+  ## Fun Facts
+  - 🎨 Hobbies: [Your Hobbies]
+   - 🏆 Goals: [Your Current Goals]
 
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
