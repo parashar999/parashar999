@@ -33,56 +33,13 @@ I aspire to build a career in Web3 technologies, exploring decentralized applica
  <div> 
 
  **BTECH : SOFTWARE ENGINEERING** <br> 
- <a>
-   ( DELHI TECHNOLOGICAL UNIVERSITY )
+ <a href="https://www.dtu.ac.in/" >
+   ( Delhi Technological University , Formerly Delhi College of Engineering )
  </a>
  <br>
  
  `AUG 2019- MAY 2024`
  </div>
-  </div>
-      <div align='left' style="margin:20px; width: 100%; height: 225px; background-color: black; padding:10px;border-radius:10px ">
-
-## Experience
-
- <div> 
- 
- **Teaching Assistant:** CodingClan
- <br> 
- (`Jan 2023- June 2023`) </div> </h5>
-  <div> 
-
-  **Blockchain Researcher:** VedicBlock Labs
-  <br>
-  (`Jan 2024- Feb 2024`) 
-  </div>
-  <div> 
-  
-  **Associate Blockchain Developer:** 
-  Teblox Labs  <Br> (`Mar 2024-JUL 2024`)  </a> </div>
-  
-  </div>
-        <div align='left' style="margin:20px; width: 100%; height: 225px; background-color: black; padding:10px;border-radius:10px ">
-
-## Subjects of Interest
-
- <div> 
- 
- - ***Operating Systems*** </div>
-  <div> 
- 
- - ***Object Oriented Programming*** </div>
-  <div> 
- 
- - ***Computer Netwroks*** </div>
-  <div> 
- 
- - ***Blockchain*** </div>
-
- <div> 
- 
- - ***Computer Organization and Architecture*** </div>
-
   </div>
     </div>
 </div>
