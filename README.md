@@ -11,16 +11,16 @@ I aspire to build a career in Web3 technologies, exploring decentralized applica
 </div>
 <div style="display: flex;">
     <div style="width: 900px; height: 700px; padding:20px">
-        <div style="width: 100%; height: 600px; ">
+        <div style="width: 100%; height: 400px; ">
         
 ## Skills & Technologies
 
-| **💻 Programming Languages:**  JavaScript, C++ |   <img src="./c-logo.png" width="60" height="60" /> <img src="./Daco_3133777.png" width="60" height="60" /> |
+| **💻 Programming Languages:**  JavaScript, C++ |   <img src="./c-logo.png" width="40" height="40" /> <img src="./Daco_3133777.png" width="40" height="40" /> |
 |--|-------------|
-|  **⚙️ Tools: Git and GitHub, Docker, VSCode, ChatGPT** |   <img src="./github.256x250.png" width="60" height="60" />  <img src="./4373190_docker_logo_logos_icon.png" width="60" height="60" />  <img src="./file-type-vscode.256x254.png" width="60" height="60" />   <img src="./63c52af590250dd34bd6a9ab.png" width="60" height="60" /> |
-| **🌐 Technologies:  React.js, Node.js, MySQL, MongoDB** |  <img src="./1174949_js_react js_logo_react_react native_icon.png" width="60" height="60" />  <img src="./pngwing.com.png" width="60" height="60" />  <img src="./4691303_mysql_icon.png" width="60" height="60" /> <img src="./pngwing.com (1).png" width="60" height="60" />     |
-| **🌐 Technologies:  Bitcoin, Ethereum, Internet Computer Protocol** |  <img src="./bitcoin_btc_logo_62c59b827e.webp" width="60" height="60" /> <img src="./ethereum_eth_logo_e69b1c2368.webp" width="60" height="60" />  <img src="./internet-computer-icp-logo-02DE976C1A-seeklogo.com.webp" width="60" height="60" />   |
-|  **📚 Currently Exploring : Solana, Hyperledger Fabric, AWS, Rust, DeFi Protocols** |   <img src="./solana-sol-logo-12828AD23D-seeklogo.com.webp" width="60" height="60" />     <img src="./Daco_292995.png" width="140" height="60" />  <img src="./AWS-Logo-PNG.png" width="140" height="60" /> <img src="./NicePng_rust-logo-png_3084680.png" width="60" height="60" />   |
+|  **⚙️ Tools: Git and GitHub, Docker, VSCode, ChatGPT** |   <img src="./github.256x250.png" width="40" height="40" />  <img src="./4373190_docker_logo_logos_icon.png" width="40" height="40" />  <img src="./file-type-vscode.256x254.png" width="40" height="40" />   <img src="./63c52af590250dd34bd6a9ab.png" width="40" height="40" /> |
+| **🌐 Technologies:  React.js, Node.js, MySQL, MongoDB** |  <img src="./1174949_js_react js_logo_react_react native_icon.png" width="40" height="40" />  <img src="./pngwing.com.png" width="40" height="40" />  <img src="./4691303_mysql_icon.png" width="40" height="40" /> <img src="./pngwing.com (1).png" width="40" height="40" />     |
+| **🌐 Technologies:  Bitcoin, Ethereum, Internet Computer Protocol** |  <img src="./bitcoin_btc_logo_62c59b827e.webp" width="40" height="40" /> <img src="./ethereum_eth_logo_e69b1c2368.webp" width="40" height="40" />  <img src="./internet-computer-icp-logo-02DE976C1A-seeklogo.com.webp" width="40" height="40" />   |
+|  **📚 Currently Exploring : Solana, Hyperledger Fabric, AWS, Rust, DeFi Protocols** |   <img src="./solana-sol-logo-12828AD23D-seeklogo.com.webp" width="40" height="40" />     <img src="./Daco_292995.png" width="140" height="40" />  <img src="./AWS-Logo-PNG.png" width="140" height="40" /> <img src="./NicePng_rust-logo-png_3084680.png" width="40" height="40" />   |
 </div>
 <div style="width: 100%; padding:10px ; height: 330px; border:20px ; background-color: black;">
 
@@ -29,7 +29,7 @@ I aspire to build a career in Web3 technologies, exploring decentralized applica
 </div>
 </div>
 <div style=" width: 400px; height: 700px;">
-        <div align='left' style="margin:20px; width: 100%; height: 260px; background-color: black; padding:10px;border-radius:10px ">
+        <div align='left' style="margin:20px; width: 100%; height: 240px; background-color: black; padding:10px;border-radius:10px ">
 
 ## Experience
 
@@ -50,7 +50,7 @@ I aspire to build a career in Web3 technologies, exploring decentralized applica
   Teblox Labs  <Br> (`Mar 2024-JUL 2024`)  </a> </div>
   
   </div>
-   <div align='left' style="margin:20px; width: 100%; height: 160px; background-color: black; padding:10px;border-radius:10px ">
+   <div align='left' style="margin:20px; width: 100%; height: 140px; background-color: black; padding:10px;border-radius:10px ">
 
 ## Education 
 
