@@ -19,7 +19,7 @@ I aspire to build a career in Web3 technologies, exploring decentralized applica
 
 |||
 |--|-------------|
-| **💻 Programming Languages: JavaScript, C++** |   <img src="./c-logo.png" width="25" height="25" /> <img src="./Daco_3133777.png" width="25" height="25" /> |
+| **💻 Programming Languages:  C++ , JavaScript** |   <img src="./c-logo.png" width="25" height="25" /> <img src="./Daco_3133777.png" width="25" height="25" /> |
 |  **⚙️ Tools: Git and GitHub, Docker, VSCode, ChatGPT** |   <img src="./github.256x250.png" width="25" height="25" />  <img src="./4373190_docker_logo_logos_icon.png" width="25" height="25" />  <img src="./file-type-vscode.256x254.png" width="25" height="25" />   <img src="./63c52af590250dd34bd6a9ab.png" width="25" height="25" /> |
 | **🌐 Technologies:  React.js, Node.js, MySQL, MongoDB** |  <img src="./1174949_js_react js_logo_react_react native_icon.png" width="25" height="25" />  <img src="./pngwing.com.png" width="25" height="25" />  <img src="./4691303_mysql_icon.png" width="25" height="25" /> <img src="./pngwing.com (1).png" width="25" height="25" />     |
 | **🌐 Blockchain Technologies:  Bitcoin, Ethereum, Internet Computer Protocol** |  <img src="./bitcoin_btc_logo_62c59b827e.webp" width="25" height="25" /> <img src="./ethereum_eth_logo_e69b1c2368.webp" width="25" height="25" />  <img src="./internet-computer-icp-logo-02DE976C1A-seeklogo.com.webp" width="25" height="25" />   |
