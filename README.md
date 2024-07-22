@@ -32,13 +32,13 @@ I aspire to build a career in Web3 technologies, exploring decentralized applica
 
  <div> 
 
- **BTECH : SOFTWARE ENGINEERING** <br> 
+ **BTECH : SOFTWARE ENGINEERING** |  `AUG 2019- MAY 2024` <br> 
  <a href="https://www.dtu.ac.in/" >
    ( Delhi Technological University , Formerly Delhi College of Engineering )
  </a>
  <br>
  
- `AUG 2019- MAY 2024`
+
  </div>
   </div>
     </div>
