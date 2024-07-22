@@ -1,6 +1,6 @@
 <div align="center" style="padding:30px">
 
-<div style="width: 1200px; height: 800px;"> 
+<small> <div style="width: 1200px; height: 800px;"> 
     
 <div align="left" style="padding: 20px; width: 100%; height: 100px; background-color: black; border-radius:20px">
 
@@ -103,5 +103,6 @@ I aspire to build a career in Web3 technologies, exploring decentralized applica
     </div>
 </div>
 </div>
+</small>
 </div>
 
