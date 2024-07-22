@@ -1,18 +1,7 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-
-<div align="center" style="padding:30px">
-<img src="./file2.webp" width="400px" />
-<small> <div style="width: 1200px; height: 800px;"> 
-    
-<div align="left" style="padding: 20px; width: 100%; height: 100px; background-color: black; border-radius:20px">
 
 # Hello, I'm Tarun Sharma 👋
 **About Me:** I'm a Full Stack Developer based in Delhi, India . I specialize in Full Stack Development and have a passion for Blockchain Technology . 
 I aspire to build a career in Web3 technologies, exploring decentralized applications (dApps) and contributing to the evolution of blockchain ecosystems.
-
-
-
-
 </div>
 <div style="display: flex;">
     <div style="width: 900px; height: 700px; padding:20px">
@@ -41,8 +30,6 @@ I aspire to build a career in Web3 technologies, exploring decentralized applica
  <a href="https://www.dtu.ac.in/" >
    Delhi Technological University ( Formerly Delhi College of Engineering ) </a>  `AUG 2019- MAY 2024`
  <br>
- 
-
  </div>
   </div>
     </div>
@@ -50,4 +37,3 @@ I aspire to build a career in Web3 technologies, exploring decentralized applica
 </div>
 </small>
 </div>
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
