@@ -24,22 +24,22 @@ I aspire to build a career in Web3 technologies, exploring decentralized applica
 |  **📚 Currently Exploring : Solana, Hyperledger Fabric, AWS, Rust, DeFi Protocols** |   <img src="./solana-sol-logo-12828AD23D-seeklogo.com.webp" width="25" height="25" />     <img src="./Daco_292995.png" width="60" height="25" />  <img src="./AWS-Logo-PNG.png" width="60" height="25" /> <img src="./NicePng_rust-logo-png_3084680.png" width="25" height="25" />   |
 </div>
 
-| Education | Expereience |Subjects of Interest |
-|------------------|------------------|------------------|
-|    <div align='left' style="margin:20px; width: 100%; height: 125px; background-color: black; padding:10px;border-radius:10px ">
 
- <div> 
 
- **BTECH : SOFTWARE ENGINEERING** <br> 
- <a>
-   ( DELHI TECHNOLOGICAL UNIVERSITY )
- </a>
- <br>
- 
- `AUG 2019- MAY 2024`
- </div>
-  </div>  |<div style=" width: 250px; height: 700px;">
+
+<div align="left" style="width: 100%; padding:10px ; height: 330px; border:20px ; background-color: black;">
+
+## PROJECTS
+
+**PROJECT1**: <br>
+**PROJECT1**: <br>
+**PROJECT1**:  
+</div>
+</div>
+<div style=" width: 250px; height: 700px;">
         <div align='left' style="margin:20px; width: 100%; height: 225px; background-color: black; padding:10px;border-radius:10px ">
+
+## Experience
 
  <div> 
  
@@ -57,7 +57,34 @@ I aspire to build a career in Web3 technologies, exploring decentralized applica
   **Associate Blockchain Developer:** 
   Teblox Labs  <Br> (`Mar 2024-JUL 2024`)  </a> </div>
   
-  </div>  |  <div align='left' style="margin:20px; width: 100%; height: 225px; background-color: black; padding:10px;border-radius:10px ">
+  </div>
+   <div align='left' style="margin:20px; width: 100%; height: 125px; background-color: black; padding:10px;border-radius:10px ">
+
+## Education 
+
+ <div> 
+
+ **BTECH : SOFTWARE ENGINEERING** <br> 
+ <a>
+   ( DELHI TECHNOLOGICAL UNIVERSITY )
+ </a>
+ <br>
+ 
+ `AUG 2019- MAY 2024`
+ </div>
+  </div>
+ <div align='left' style="margin:20px; width: 100%; height: 170px; background-color: black; padding:10px;border-radius:10px ">
+
+## Contact Me
+
+ <div> 📧 Email: <a> parashartarun392000@gmail.com </a>, </div> </h5>
+  <div> 🔗 LinkedIn: <a> www.linkedin.com/in/tarunsharma392000 </a> </div>
+  <div> 🐦 Twitter: <a> https://x.com/TarunParas28366 </a> </div>
+  <div> 💬 Discord username: @parashartarun392000 </div>
+  </div>
+        <div align='left' style="margin:20px; width: 100%; height: 225px; background-color: black; padding:10px;border-radius:10px ">
+
+## Subjects of Interest
 
  <div> 
  
@@ -77,31 +104,7 @@ I aspire to build a career in Web3 technologies, exploring decentralized applica
  - ***Computer Organization and Architecture*** </div>
 
   </div>
-    </div>  |
-
-
-
-<div align="left" style="width: 100%; padding:10px ; height: 330px; border:20px ; background-color: black;">
-
-## PROJECTS
-
-**PROJECT1**: <br>
-**PROJECT1**: <br>
-**PROJECT1**:  
-</div>
-</div>
-
-
- <div align='left' style="margin:20px; width: 100%; height: 170px; background-color: black; padding:10px;border-radius:10px ">
-
-## Contact Me
-
- <div> 📧 Email: <a> parashartarun392000@gmail.com </a>, </div> </h5>
-  <div> 🔗 LinkedIn: <a> www.linkedin.com/in/tarunsharma392000 </a> </div>
-  <div> 🐦 Twitter: <a> https://x.com/TarunParas28366 </a> </div>
-  <div> 💬 Discord username: @parashartarun392000 </div>
-  </div>
-       
+    </div>
 </div>
 </div>
 </small>
