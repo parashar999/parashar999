@@ -5,7 +5,7 @@
 <div align="left" style="padding: 20px; width: 100%; height: 100px; background-color: black; border-radius:20px">
 
 # Hello, I'm Tarun Sharma 👋
-**About Me:** I'm a Full Stack Developer based in Delhi, India . I specialize in Full Stack Development and have a passion for Blockchain and Cyber-security. 
+**About Me:** I'm a Full Stack Developer based in Delhi, India . I specialize in Full Stack Development and have a passion for Blockchain Technology . 
 I aspire to build a career in Web3 technologies, exploring decentralized applications (dApps) and contributing to the evolution of blockchain ecosystems.
 
 </div>
@@ -32,10 +32,9 @@ I aspire to build a career in Web3 technologies, exploring decentralized applica
 
  <div> 
 
- **BTECH : SOFTWARE ENGINEERING** |  `AUG 2019- MAY 2024` <br> 
+ **BTECH : SOFTWARE ENGINEERING** | 
  <a href="https://www.dtu.ac.in/" >
-   ( Delhi Technological University , Formerly Delhi College of Engineering )
- </a>
+   Delhi Technological University , Formerly Delhi College of Engineering  </a>  `AUG 2019- MAY 2024`
  <br>
  
 
