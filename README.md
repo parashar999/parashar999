@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<img src="./file2.webp" width="400px" />
-<div align="center" style="padding:30px">
 
+<div align="center" style="padding:30px">
+<img src="./file2.webp" width="400px" />
 <small> <div style="width: 1200px; height: 800px;"> 
     
 <div align="left" style="padding: 20px; width: 100%; height: 100px; background-color: black; border-radius:20px">
