@@ -10,6 +10,9 @@
 **About Me:** I'm a Full Stack Developer based in Delhi, India . I specialize in Full Stack Development and have a passion for Blockchain Technology . 
 I aspire to build a career in Web3 technologies, exploring decentralized applications (dApps) and contributing to the evolution of blockchain ecosystems.
 
+
+
+
 </div>
 <div style="display: flex;">
     <div style="width: 900px; height: 700px; padding:20px">
@@ -47,4 +50,4 @@ I aspire to build a career in Web3 technologies, exploring decentralized applica
 </div>
 </small>
 </div>
-
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
