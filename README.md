@@ -4,7 +4,7 @@
     
 <div align="left" style="padding: 20px; width: 100%; height: 100px; background-color: black; border-radius:20px">
 
-# Hello, I'm Tarun👋
+# Hello, I'm Tarun Sharma 👋
 **About Me:** I'm a Full Stack Developer based in Delhi, India . I specialize in Full Stack Development and have a passion for Blockchain and Cyber-security. 
 I aspire to build a career in Web3 technologies, exploring decentralized applications (dApps) and contributing to the evolution of blockchain ecosystems.
 
