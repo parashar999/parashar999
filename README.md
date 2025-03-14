@@ -28,7 +28,7 @@ I aspire to build a career in Web3 technologies, exploring decentralized applica
 
  **BTECH : SOFTWARE ENGINEERING** | 
  <a href="https://www.dtu.ac.in/" >
-   Delhi Technological University ( Formerly Delhi College of Engineering ) </a>  `AUG 2019- MAY 2024`
+   Delhi Technological University ( Formerly Delhi College of Engineering ) </a>  `AUG 2020- MAY 2024`
  <br>
  </div>
   </div>
